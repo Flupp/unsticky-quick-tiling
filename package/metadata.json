@@ -1,0 +1,20 @@
+{
+	"KPackageStructure": "KWin/Script",
+	"KPlugin": {
+		"Authors": [
+			{
+				"Email": "unsticky-quick-tiling@derflupp.e4ward.com",
+				"Name": "Toni Dietze"
+			}
+		],
+		"Description": "Immediately untile a quick tiled window again while keeping the window size like the tile size.",
+		"Icon": "preferences-system-windows-script-test",
+		"Id": "unsticky-quick-tiling",
+		"Version": "1.0",
+		"License": "MIT",
+		"Name": "Unsticky Quick Tiling",
+		"Website": "https://github.com/Flupp/unsticky-quick-tiling"
+	},
+	"X-Plasma-API": "javascript",
+	"X-Plasma-MainScript": "code/main.js"
+}
